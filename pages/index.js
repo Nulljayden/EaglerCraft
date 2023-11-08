@@ -21,6 +21,9 @@ export default function Home() {
           <td>Games</td>
           <td>Resorces</td>
         </table>
+        <a href="index (1).html">
+          <button>Button</button>
+        </a>
       </main>
 
       <Footer />
