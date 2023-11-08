@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Google Drive</title>
-        <link rel="icon" href="https://logodownload.org/wp-content/uploads/2020/04/google-drive-logo-0-1.png" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
