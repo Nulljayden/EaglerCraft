@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Google Drive</title>
+        <link rel="icon" href="https://logodownload.org/wp-content/uploads/2020/04/google-drive-logo-0-1.png" />
       </Head>
 
       <main>
