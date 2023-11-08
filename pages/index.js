@@ -12,9 +12,11 @@ export default function Home() {
 
       <main>
         <table>
-          <th>Apps</th>
-          <th>Games</th>
-          <th>Resorces</th>
+          <tr>
+            <th>Apps</th>
+            <th>Games</th>
+            <th>Resorces</th>
+          </tr>
         </table>
       </main>
 
