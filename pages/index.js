@@ -4,6 +4,7 @@ import Footer from '@components/Footer'
 
 table {
   border: 1px solid;
+  border-style: outset;
 }
 
 export default function Home() {
