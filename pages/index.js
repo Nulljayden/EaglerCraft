@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Google Drive</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/google-drive-logo-0-1.png" />
       </Head>
 
       <main>
