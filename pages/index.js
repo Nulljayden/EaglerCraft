@@ -2,6 +2,10 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
+table {
+  border: 1px solid;
+}
+
 export default function Home() {
   return (
     <div className="container">
